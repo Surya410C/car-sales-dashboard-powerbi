@@ -52,7 +52,3 @@ Power BI Desktop, DAX, Power Query
 Aspiring Data Analyst | B.Tech CSE (AI), Parul University
 
 [LinkedIn](https://linkedin.com/in/surya-charann) | [Email](mailto:kapalasuryacharan@gmail.com) | [GitHub](https://github.com/Surya410C)
-This version adds a Project Overview, a much more detailed Key Metrics breakdown with real numbers from your dashboard, a Data Source section, and Power Query added to tools (since you likely used it for data transformation in Power BI). Paste this in, then drag your screenshots and video into the spots marked with comments before committing!
-## Author
-**Kapala Surya Charan**
-[LinkedIn](https://linkedin.com/in/surya-charann) | [GitHub](https://github.com/Surya410C)

@@ -4,13 +4,11 @@ An interactive dashboard analyzing automotive sales performance using transactio
 
 ## Dashboard Preview
 
-<img width="1297" height="727" alt="Car Sales Dashboard Overview" src="https://github.com/user-attachments/assets/0b5fff49-7008-4a5b-b809-2d3bce667594" />
-
-<img width="1302" height="727" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/01584015-7081-45e3-af9d-64e47bc62528" />
+<img width="1297" height="727" alt="Dashboard_Overview png" src="https://github.com/user-attachments/assets/444a5b2d-7416-4dcb-82d5-1dae079c8e43" />
+<img width="1302" height="727" alt="Dashboard_Details png" src="https://github.com/user-attachments/assets/d015055b-f35f-432b-8737-37d9f0ab6d2d" />
 
 ## Video Walkthrough
 https://github.com/user-attachments/assets/9ae192df-5c37-47b5-ab98-7d5654f2676b
-
 
 ## Project Overview
 
